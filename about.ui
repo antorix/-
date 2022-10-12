@@ -150,7 +150,7 @@
        <cursorShape>IBeamCursor</cursorShape>
       </property>
       <property name="text">
-       <string>Сайт программы: picalc.blogspot.com</string>
+       <string>Сайт программы: github.com/antorix/Picalc</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
